@@ -1,0 +1,13 @@
+#pankki{
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(90, 0, 0);
+}
+#peli{
+    margin-bottom: 20px;
+    text-align: center;
+    color: brown;
+}
+body{
+    background-color: rgb(40, 116, 59);
+}
